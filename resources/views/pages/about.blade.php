@@ -27,7 +27,7 @@
             <div class="col-lg-7">
                 <div class="welcome-text mt-5 mt-lg-0">
                     <h2>Welcome to our clinic</h2>
-                    <p class="pt-3">Subdue whales void god which living don't midst lesser yielding over lights whose.
+                    <p class="pt-3">i'm shiv gupta...... god which living don't midst lesser yielding over lights whose.
                         Cattle greater brought sixth fly den dry good tree isn't seed stars were.</p>
                     <p>Subdue whales void god which living don't midst lesser yielding over lights whose. Cattle greater
                         brought sixth fly den dry good tree isn't seed stars were the boring.</p>
