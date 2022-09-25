@@ -122,7 +122,7 @@
                                 </span>” </h1>
                         </div>
                         <div class="col-lg-12 col-xl-6">
-                            <h2 class="display-1 text-light text-center text-xl-end"><a href="/donate">Donate Now
+                            <h2 class="display-1 text-light text-center text-xl-end"><a href="{{ route('donors.create') }}">Donate Now
                             </h2></a>
                         </div>
                     </div>
